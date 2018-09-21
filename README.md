@@ -23,4 +23,8 @@ pleasure. In that case, it will have clickable links,
 text with different formatting, and other niceties.
 
 I'm about to commit this file to version control. In fact,
-I'll do so right now.
+I'll do so right now. There, it is done. I just made commit
+`1cc48cf5a3696f94676264e2f6dac38c2e23067d`---a unique commit
+hash (or id) that has never before existed and shall never
+again in the entire history and future of space time. Now
+I'll make another.
