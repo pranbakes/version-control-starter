@@ -20,7 +20,7 @@ you push your work back up to GitHub.
 ## Verbose instructions
 
 If you're reading this file (I KNOW THAT YOU ARE), the
-copy of the file could be in many places. I'm writing
+copy of this file could be in many places. I'm writing
 this file on my laptop in the wee hours of Friday Sep 21, 2018.
 This file is called `README.md`, and it is written
 in [markdown](https://en.wikipedia.org/wiki/Markdown)
@@ -68,10 +68,13 @@ assignment: clone, add, commit, & push.
 
 There is no automated grading code for this assignment yet.
 So, you can't verify you've done what I've asked in an automated
-fashion. Here is how you can verify manually. If you your repo
+fashion. Here is how you can verify manually. If your repo
 on GitHub has the file you created and it contains your class
 nickname, you're ok. (Well, technically, the file should be 
 in your "master" branch too. But, that is the default, so you're
 likely ok there.) Stop by office hours if this is confusing.
 
-
+(Please note, if you're in 660, your repo on GitHub will be
+in the yale-mgt-656-fall-2018 organization. This is easier
+for me for a variety of reasons. Please pardon my introduction
+of potential confusion.)
